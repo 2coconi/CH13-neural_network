@@ -1,4 +1,4 @@
-# CH13-neural_network
+#Neural_Network
 
 This project is aimed to predict whether Alphabet Soup funding applicants will be successful by creating a binary classification model using a deep neural network.
 
